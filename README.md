@@ -12,7 +12,7 @@
 
 ### Инструкция по сборке
 
-1. Клонируйте репозиторий в папку (желательно назвать ее "GameProject" во избежании возможных ошибок сборки): 
+1. Клонируйте репозиторий в папку (желательно назвать ее "GameProject" во избежании возможных ошибок сборки): https://github.com/C-plus-plus-Developer/ChessOxygine.git
 2. Клонируйте репозиторий самого движка в ту же папку: https://github.com/oxygine/oxygine-framework.git
 3. Ваша структура должна выглядеть так: 
 <img width="746" height="305" alt="image" src="https://github.com/user-attachments/assets/e550f541-e39c-4567-919e-d1c3754d47a7" />
