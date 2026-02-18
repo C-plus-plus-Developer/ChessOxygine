@@ -18,9 +18,13 @@
 <img width="746" height="305" alt="image" src="https://github.com/user-attachments/assets/e550f541-e39c-4567-919e-d1c3754d47a7" />
 
 4. Далее, в этой папке откроем терминал и выполним: 
+
 mkdir build && cd build
+
 cmake .. && make
+
 ./GameProject
+
 Ожидаемый результат: 
 
 
