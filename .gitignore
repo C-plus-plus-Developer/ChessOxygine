@@ -30,7 +30,7 @@ cmake-build-*/
 *.cbp
 *.layout
 
-# Папки Oxygine (если они есть)
+# Папки Oxygine 
 oxygine-framework/build/
 oxygine-framework/lib/
 oxygine-framework/bin/
